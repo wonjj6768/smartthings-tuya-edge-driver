@@ -1,18 +1,48 @@
 # SmartThings Edge Driver Supported Devices
 
-SmartThings Edge Driver for Zigbee devices including Tuya, HOBEIAN presence sensors, soil moisture sensors, and fingerbot. Compatible with TS0601, TS0001 models. Support for _TZE200_kb5noeto, _TZE200_2aaelwxk, _TZE200_tyffvoij, _TZE200_yflzeeqj, _TZE284_aao3yzhs, _TZ3210_dse8ogfy, _TZ3210_j4pdtz9v, _TZ3210_cm9mbpr1, ZG-204ZE, ZG-204ZM, ZG-204ZV, ZG-303Z, CK-BL702-MWS-01.
+> Last Updated: 2025-11-21
+
+This repository contains SmartThings Edge drivers supporting various Zigbee devices.
 
 ---
 
-## ZG-204ZE Presence Sensor
-**Driver Name**: `ZG-204ZE Presence Sensor`
+## _TZ3218_t9ynfz4x
+**Driver Name**: `_TZ3218_t9ynfz4x`
+
+**Fingerprints**:
+```
+manufacturer: _TZ3218_awarhusb / model: TS0225
+manufacturer: _TZ3218_t9ynfz4x / model: TS0225
+```
+**Features**: Presence Detection, Illuminance Measurement, Detection Distance
+**Settings**: Motion Distance, Motion Sensitivity, Static Sensitivity, Fading Time, LED Presence Indicator
+
+---
+
+## _TZE284_iadro9bf
+**Driver Name**: `_TZE284_iadro9bf`
 
 **Fingerprint**:
 ```
-manufacturer: ZG-204ZE
-model: CK-BL702-MWS-01(7016)
+manufacturer: _TZE284_iadro9bf
+model: TS0601
 ```
-**Features**: Presence Detection, Battery
+**Features**: Presence Detection, Illuminance Measurement, Detection Distance
+**Settings**: Radar Sensitivity, Minimum Detection Range, Maximum Detection Range, Detection Delay, Fading Time
+
+---
+
+## ZG-204ZE Motion Sensor
+**Driver Name**: `ZG-204ZE Motion Sensor`
+
+**Fingerprints**:
+```
+manufacturer: ZG-204ZE / model: CK-BL702-MWS-01(7016)
+manufacturer: HOBEIAN / model: ZG-204ZE
+manufacturer: ZG-204ZE / model: ZG-204ZE
+```
+**Features**: Motion Detection, Battery
+**Settings**: Detection Sensitivity, Motion Keep Time, LED Indicator
 
 ---
 
@@ -41,12 +71,13 @@ manufacturer: HOBEIAN / model: _TZE200_kb5noeto
 manufacturer: HOBEIAN / model: _TZE200_tyffvoij
 manufacturer: HOBEIAN / model: _TZE200_yflzeeqj
 ```
-**Features**: Presence Detection, PIR+Radar, Illuminance Measurement, Battery
+**Features**: Presence Detection, Battery, Illuminance Measurement, PIR+Radar
+**Settings**: Motion Detection Mode, Motion Detection Sensitivity, Stationary Detection Sensitivity, Far Detection Distance, Presence Keep Time, Indicator LED
 
 ---
 
-## HOBEIAN ZG-204ZV Presence Sensor
-**Driver Name**: `HOBEIAN ZG-204ZV Presence Sensor`
+## ZG-204ZV Motion Sensor
+**Driver Name**: `ZG-204ZV Motion Sensor`
 
 **Fingerprints**:
 ```
@@ -64,7 +95,8 @@ manufacturer: _TZE200_y8jijhba / model: TS0601
 manufacturer: _TZE200_y8jijhba / model: ZG-204ZV
 manufacturer: ZG-204ZV / model: _TZE200_y8jijhba
 ```
-**Features**: Presence Detection, Temperature, Humidity, Illuminance Measurement, Battery
+**Features**: Motion Detection, Battery, Temperature, Humidity, Illuminance Measurement
+**Settings**: Detection Sensitivity, Motion Keep Time, Humidity Offset, Temperature Offset, Illuminance Interval, LED Indicator
 
 ---
 
@@ -76,7 +108,7 @@ manufacturer: ZG-204ZV / model: _TZE200_y8jijhba
 manufacturer: _TZE284_aao3yzhs
 model: TS0601
 ```
-**Features**: Temperature, Soil Moisture Measurement, Battery
+**Features**: Temperature, Soil Moisture, Battery
 
 ---
 
@@ -88,7 +120,8 @@ model: TS0601
 manufacturer: HOBEIAN
 model: ZG-303Z
 ```
-**Features**: Temperature, Air Humidity, Soil Moisture Measurement, Battery
+**Features**: Temperature, Humidity, Soil Moisture, Battery
+**Settings**: Soil Moisture Calibration, Temperature Calibration, Air Humidity Calibration, Air Sampling Interval, Soil Sampling Interval
 
 ---
 
@@ -101,7 +134,7 @@ manufacturer: _TZ3210_dse8ogfy / model: TS0001
 manufacturer: _TZ3210_j4pdtz9v / model: TS0001
 manufacturer: _TZ3210_cm9mbpr1 / model: TS0001
 ```
-**Features**: Switch Control, Battery
+**Features**: Switch Control, Battery, Fingerbot Mode, Movement Range, Delay Settings, Advanced Settings
 
 ---
 
