@@ -1,10 +1,20 @@
 # SmartThings Edge Driver Supported Devices
 
-> Last Updated: 2025-11-21
+> Last Updated: 2025-12-07
 
-This repository contains SmartThings Edge drivers supporting various Zigbee devices.
+This repository contains SmartThings Edge drivers supporting various Zigbee and Matter devices.
 
----
+# Zigbee Devices
+
+## Neo NAS-TH01 Sensor
+**Driver Name**: `Neo NAS-TH01 Sensor`
+
+**Fingerprint**:
+```
+manufacturer: _TZ3000_qaaysllp
+model: TS0201
+```
+**Features**: Temperature, Humidity, Illuminance Measurement, Battery
 
 ## _TZ3218_t9ynfz4x
 **Driver Name**: `_TZ3218_t9ynfz4x`
@@ -15,9 +25,8 @@ manufacturer: _TZ3218_awarhusb / model: TS0225
 manufacturer: _TZ3218_t9ynfz4x / model: TS0225
 ```
 **Features**: Presence Detection, Illuminance Measurement, Detection Distance
-**Settings**: Motion Distance, Motion Sensitivity, Static Sensitivity, Fading Time, LED Presence Indicator
 
----
+**Settings**: Motion Distance, Motion Sensitivity, Static Sensitivity, Fading Time, LED Presence Indicator
 
 ## _TZE284_iadro9bf
 **Driver Name**: `_TZE284_iadro9bf`
@@ -28,9 +37,8 @@ manufacturer: _TZE284_iadro9bf
 model: TS0601
 ```
 **Features**: Presence Detection, Illuminance Measurement, Detection Distance
-**Settings**: Radar Sensitivity, Minimum Detection Range, Maximum Detection Range, Detection Delay, Fading Time
 
----
+**Settings**: Radar Sensitivity, Minimum Detection Range, Maximum Detection Range, Detection Delay, Fading Time
 
 ## ZG-204ZE Motion Sensor
 **Driver Name**: `ZG-204ZE Motion Sensor`
@@ -42,9 +50,8 @@ manufacturer: HOBEIAN / model: ZG-204ZE
 manufacturer: ZG-204ZE / model: ZG-204ZE
 ```
 **Features**: Motion Detection, Battery
-**Settings**: Detection Sensitivity, Motion Keep Time, LED Indicator
 
----
+**Settings**: Detection Sensitivity, Motion Keep Time, LED Indicator
 
 ## Tuya ZG-204ZM Presence Sensor
 **Driver Name**: `Tuya ZG-204ZM Presence Sensor`
@@ -72,9 +79,8 @@ manufacturer: HOBEIAN / model: _TZE200_tyffvoij
 manufacturer: HOBEIAN / model: _TZE200_yflzeeqj
 ```
 **Features**: Presence Detection, Battery, Illuminance Measurement, PIR+Radar
-**Settings**: Motion Detection Mode, Motion Detection Sensitivity, Stationary Detection Sensitivity, Far Detection Distance, Presence Keep Time, Indicator LED
 
----
+**Settings**: Motion Detection Mode, Motion Detection Sensitivity, Stationary Detection Sensitivity, Far Detection Distance, Presence Keep Time, Indicator LED
 
 ## ZG-204ZV Motion Sensor
 **Driver Name**: `ZG-204ZV Motion Sensor`
@@ -96,9 +102,8 @@ manufacturer: _TZE200_y8jijhba / model: ZG-204ZV
 manufacturer: ZG-204ZV / model: _TZE200_y8jijhba
 ```
 **Features**: Motion Detection, Battery, Temperature, Humidity, Illuminance Measurement
-**Settings**: Detection Sensitivity, Motion Keep Time, Humidity Offset, Temperature Offset, Illuminance Interval, LED Indicator
 
----
+**Settings**: Detection Sensitivity, Motion Keep Time, Humidity Offset, Temperature Offset, Illuminance Interval, LED Indicator
 
 ## Tuya Soil Sensor
 **Driver Name**: `Tuya Soil Sensor`
@@ -110,20 +115,20 @@ model: TS0601
 ```
 **Features**: Temperature, Soil Moisture, Battery
 
----
-
 ## Tuya ZG-303Z Soil Sensor
 **Driver Name**: `Tuya ZG-303Z Soil Sensor`
 
-**Fingerprint**:
+**Fingerprints**:
 ```
-manufacturer: HOBEIAN
-model: ZG-303Z
+manufacturer: HOBEIAN / model: ZG-303Z
+manufacturer: _TZE200_wqashyqo / model: TS0601
+manufacturer: COOLO / model: CS-201Z
+manufacturer: _TZE200_npj9bug3 / model: TS0601
+manufacturer: _TZE200_wrmhp6b3 / model: TS0601
 ```
 **Features**: Temperature, Humidity, Soil Moisture, Battery
-**Settings**: Soil Moisture Calibration, Temperature Calibration, Air Humidity Calibration, Air Sampling Interval, Soil Sampling Interval
 
----
+**Settings**: Soil Moisture Calibration, Temperature Calibration, Air Humidity Calibration, Air Sampling Interval, Soil Sampling Interval
 
 ## Tuya Fingerbot v3
 **Driver Name**: `Tuya Fingerbot v3`
@@ -133,12 +138,23 @@ model: ZG-303Z
 manufacturer: _TZ3210_dse8ogfy / model: TS0001
 manufacturer: _TZ3210_j4pdtz9v / model: TS0001
 manufacturer: _TZ3210_cm9mbpr1 / model: TS0001
+manufacturer: _TZ3210_a04acm9s / model: TS0001
 ```
 **Features**: Switch Control, Battery, Fingerbot Mode, Movement Range, Delay Settings, Advanced Settings
 
----
+# Matter Devices
 
-## 📥 Driver Installation
+## MOES Matter Plug
+**Driver Name**: `MOES Matter Plug`
+
+**Fingerprint**:
+```
+vendorId: 0x147D (5245)
+productId: 0x958 (2392)
+```
+**Features**: Switch Control, Power Meter, Energy Meter, Voltage Measurement, Current Measurement
+
+# 📥 Driver Installation
 
 You can install the SmartThings driver using the link below:
 
