@@ -1,8 +1,8 @@
 # SmartThings Edge Driver Supported Devices
 
-> Last Updated: 2025-12-07
+> Last Updated: 2025-12-14
 
-This repository contains SmartThings Edge drivers supporting various Zigbee and Matter devices.
+This repository contains SmartThings Edge drivers supporting various Zigbee, LAN (Xiaomi/Mijia), and Matter devices.
 
 # Zigbee Devices
 
@@ -141,6 +141,49 @@ manufacturer: _TZ3210_cm9mbpr1 / model: TS0001
 manufacturer: _TZ3210_a04acm9s / model: TS0001
 ```
 **Features**: Switch Control, Battery, Fingerbot Mode, Movement Range, Delay Settings, Advanced Settings
+
+# LAN Devices (Xiaomi/Mijia)
+
+> These devices use Xiaomi LAN protocol (miIO or MIoT). IP Address and Token are required for connection.
+
+## Qingping Air Monitor Lite
+**Driver Name**: `Qingping Air Monitor Lite`
+
+**Model**: `cgllc.airm.cgd1st` (Qingping Air Monitor Lite)
+
+**Protocol**: MIoT
+
+**Features**: Temperature, Humidity, PM2.5, PM10, CO2, Battery
+
+**Settings**: IP Address, Token, Polling Interval, Create Device
+
+---
+
+## Smartmi Evaporative Humidifier 2
+**Driver Name**: `Zhimi Smart Humidifier CB2`
+
+**Model**: `zhimi.humidifier.cb2` (Smartmi Evaporative Humidifier 2)
+
+**Protocol**: miIO
+
+**Features**: Switch, Temperature, Humidity, Mute, Target Humidity, Operation Mode, Water Level, Water Tank Status, Dry Mode
+
+**Settings**: IP Address, Token, Polling Interval, Create Device
+
+---
+
+## Qingping (ClearGrass) Air Monitor S1
+**Driver Name**: `cgllc-airmonitor-s1`
+
+**Model**: `cgllc.airmonitor.s1` (Qingping Air Monitor S1 / ClearGrass CGS1)
+
+**Protocol**: miIO
+
+**Features**: Temperature, Humidity, PM2.5, CO2, TVOC, Battery
+
+**Settings**: IP Address, Token, Polling Interval, Create Device
+
+---
 
 # Matter Devices
 
