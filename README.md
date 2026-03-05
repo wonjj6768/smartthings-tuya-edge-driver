@@ -1,8 +1,8 @@
 # SmartThings Edge Driver Supported Devices
 
-> Last Updated: 2025-12-14
+> Last Updated: 2026-03-06
 
-This repository contains SmartThings Edge drivers supporting various Zigbee, LAN (Xiaomi/Mijia), and Matter devices.
+This repository contains SmartThings Edge drivers supporting various Zigbee, LAN (miIO/MIoT), and Matter devices.
 
 # Zigbee Devices
 
@@ -142,14 +142,14 @@ manufacturer: _TZ3210_a04acm9s / model: TS0001
 ```
 **Features**: Switch Control, Battery, Fingerbot Mode, Movement Range, Delay Settings, Advanced Settings
 
-# LAN Devices (Xiaomi/Mijia)
+# LAN Devices (miIO/MIoT)
 
-> These devices use Xiaomi LAN protocol (miIO or MIoT). IP Address and Token are required for connection.
+> These devices use LAN protocol (miIO or MIoT). IP Address and Token are required for connection.
 
-## Qingping Air Monitor Lite
-**Driver Name**: `Qingping Air Monitor Lite`
+## Qingping Air Monitor Lite2
+**Driver Name**: `Qingping Air Monitor Lite2`
 
-**Model**: `cgllc.airm.cgd1st` (Qingping Air Monitor Lite)
+**Model**: `cgllc-airm-cgd1st` (Qingping Air Monitor Lite)
 
 **Protocol**: MIoT
 
@@ -180,6 +180,162 @@ manufacturer: _TZ3210_a04acm9s / model: TS0001
 **Protocol**: miIO
 
 **Features**: Temperature, Humidity, PM2.5, CO2, TVOC, Battery
+
+**Settings**: IP Address, Token, Polling Interval, Create Device
+
+---
+
+## Deerma Humidifier JSQ
+**Driver Name**: `Deerma Humidifier JSQ`
+
+**Model**: `deerma.humidifier.jsq` (Deerma Humidifier JSQ)
+
+**Protocol**: miIO
+
+**Features**: Switch, Temperature, Humidity, Target Humidity, Operation Mode, Water Tank Status
+
+**Settings**: IP Address, Token, Polling Interval, Create Device
+
+---
+
+## Philips Smart Desk Lamp
+**Driver Name**: `Philips Smart Desk Lamp`
+
+**Model**: `philips.light.sread1` (Philips Smart Desk Lamp)
+
+**Protocol**: miIO
+
+**Features**: Switch, Brightness Control
+
+**Settings**: IP Address, Token, Polling Interval, Create Device
+
+---
+
+## Zhimi Humidifier CA1
+**Driver Name**: `Zhimi Humidifier CA1`
+
+**Model**: `zhimi.humidifier.ca1` (Zhimi Humidifier CA1)
+
+**Protocol**: miIO
+
+**Features**: Switch, Temperature, Humidity, Mute, Target Humidity, Operation Mode, Water Level, Water Tank Status, Dry Mode
+
+**Settings**: IP Address, Token, Polling Interval, Create Device
+
+---
+
+## Deerma Humidifier JSQ2W
+**Driver Name**: `Deerma Humidifier JSQ2W`
+
+**Model**: `deerma-jsq2w` (Deerma Humidifier JSQ2W)
+
+**Protocol**: MIoT
+
+**Features**: Switch, Temperature, Humidity, Fan Level, Target Humidity, Mode, Alarm, Light, Water Tank Status, Device Status, Over-wet Protection
+
+**Settings**: IP Address, Token, Polling Interval, Create Device
+
+---
+
+## Dmaker Dehumidifier 22L
+**Driver Name**: `Dmaker Dehumidifier 22L`
+
+**Model**: `dmaker-22l` (Dmaker Dehumidifier 22L)
+
+**Protocol**: MIoT
+
+**Features**: Switch, Temperature, Humidity, Mode, Target Humidity, Fault Status, Alarm, LED Control, Child Lock, Auto Dry, Dry Time Remaining, Warming Status
+
+**Settings**: IP Address, Token, Polling Interval, Create Device
+
+---
+
+## Xiaomi Humidifier P800
+**Driver Name**: `Xiaomi Humidifier P800`
+
+**Model**: `xiaomi.humidifier.p800` (Xiaomi Humidifier P800)
+
+**Protocol**: MIoT
+
+**Features**: Switch, Temperature, Humidity, Mode, Target Humidity
+
+**Settings**: IP Address, Token, Polling Interval, Create Device
+
+---
+
+## Yunmi Kettle V19
+**Driver Name**: `Yunmi Kettle V19`
+
+**Model**: `yunmi-v19` (Yunmi Kettle V19)
+
+**Protocol**: MIoT
+
+**Features**: Switch, Temperature, Mode, Status, Target Temperature, Keep Warm
+
+**Settings**: IP Address, Token, Polling Interval, Create Device
+
+---
+
+## Zhimi Air Purifier MA4
+**Driver Name**: `Zhimi Air Purifier MA4`
+
+**Model**: `zhimi-airpurifier-ma4` (Zhimi Air Purifier MA4)
+
+**Protocol**: MIoT
+
+**Features**: Switch, Fan Mode, Fan Speed, Temperature, Humidity, PM2.5, Filter State
+
+**Settings**: IP Address, Token, Polling Interval, Create Device
+
+---
+
+## Zhimi Air Purifier MB3
+**Driver Name**: `Zhimi Air Purifier MB3`
+
+**Model**: `zhimi-airpurifier-mb3` (Zhimi Air Purifier MB3)
+
+**Protocol**: MIoT
+
+**Features**: Switch, Purifier Mode, Fan Speed, Temperature, Humidity, PM2.5, Filter State
+
+**Settings**: IP Address, Token, Polling Interval, Create Device
+
+---
+
+## Zhimi Air Purifier MB5
+**Driver Name**: `Zhimi Air Purifier MB5`
+
+**Model**: `zhimi-airpurifier-mb5` (Zhimi Air Purifier MB5)
+
+**Protocol**: MIoT
+
+**Features**: Switch, Fan Mode, Fan Speed, Temperature, Humidity, PM2.5, Filter State
+
+**Settings**: IP Address, Token, Polling Interval, Create Device
+
+---
+
+## Zhimi Humidifier CA4
+**Driver Name**: `Zhimi Humidifier CA4`
+
+**Model**: `zhimi.humidifier.ca4` (Zhimi Humidifier CA4)
+
+**Protocol**: MIoT
+
+**Features**: Switch, Temperature, Humidity, Fan Mode, Target Humidity, Dry Mode, LED Brightness, Water Level
+
+**Settings**: IP Address, Token, Polling Interval, Create Device
+
+---
+
+## Zhimi Humidifier CA6
+**Driver Name**: `Zhimi Humidifier CA6`
+
+**Model**: `zhimi-ca6` (Zhimi Humidifier CA6)
+
+**Protocol**: MIoT
+
+**Features**: Switch, Temperature, Humidity, Fan Mode, Target Humidity, Water Level, Dry Mode
 
 **Settings**: IP Address, Token, Polling Interval, Create Device
 
