@@ -365,6 +365,7 @@ You can install the SmartThings driver using the link below:
 
 https://bestow-regional.api.smartthings.com/invite/d4297OmXrQjo
 
+
 ## ef00-controls-wonjj6768
 
 | Manufacturer | Model | Device Profile |
@@ -902,6 +903,177 @@ https://bestow-regional.api.smartthings.com/invite/d4297OmXrQjo
 | _TZE284_twybxdzl | TS0601 | safety-presence-zf24-move-illuminance |
 | _TZE284_vceqncho | TS0601 | safety-presence-zis01p-illuminance-battery |
 | _TZE284_who1jxwd | TS0601 | safety-presence-zis01p-illuminance-battery |
+
+## ef00-pir-motion-wonjj6768
+
+| Manufacturer | Model | Device Profile |
+|---|---|---|
+| Immax | 07527L | safety-motion-pir-illuminance-battery |
+| Nedis | ZBSM20WT | safety-motion-zg204zl-keep-illuminance-battery |
+| _TZE200_1ibpyhdc | TS0601 | safety-motion-zg204zl-keep-illuminance-battery |
+| _TZE200_3towulqd | TS0601 | safety-motion-zg204zl-keep-illuminance-battery |
+| _TZE200_auin8mzr | TS0601 | safety-motion-legacy-illuminance |
+| _TZE200_bh3n6gk8 | TS0601 | safety-motion-zg204zl-keep-illuminance-battery |
+| _TZE200_f1pvdgoh | B | safety-motion-pir-illuminance-battery |
+| _TZE200_f1pvdgoh | TS0601 | safety-motion-pir-illuminance-battery |
+| _TZE200_ghynnvos | TS0601 | safety-motion-pir-illuminance |
+| _TZE200_gjldowol | TS0601 | safety-motion-zg204zl-keep-illuminance-battery |
+| _TZE200_jxyhl4eq | TS0601 | safety-motion-zg204zl-keep-illuminance-battery |
+| _TZE200_me6wtiqs | TS0601 | safety-motion-pir-illuminance-battery |
+| _TZE200_na5qlzow | TS0601 | safety-motion-zg204zl-keep-illuminance-battery |
+| _TZE200_oc7xqqbs | TS0601 | safety-motion-zpir10-illuminance-battery |
+| _TZE200_ppuj1vem | TS0601 | safety-motion-zpir10-illuminance-battery |
+| _TZE200_qxyh4r7g | TS0601 | safety-motion-zg204zl-keep-illuminance-battery |
+| _TZE200_s6hzw8g2 | TS0601 | safety-motion-zg204zl-keep-illuminance-battery |
+| _TZE200_seq9cm6u | TS0601 | safety-motion-bed-time-illuminance-battery |
+| _TZE200_ttcovulf | TS0601 | safety-motion-zg204zl-keep-illuminance-battery |
+| _TZE284_tre6haif | TS0601 | safety-motion-pir-solar-battery |
+
+## ef00-presence-advanced-wonjj6768
+
+| Manufacturer | Model | Device Profile |
+|---|---|---|
+| HOBEIAN | CK-BL702-MWS-01(7016) | safety-presence-zg205za-illuminance |
+| ZGAF-205L | CK-BL702-MWS-01(7016) | safety-presence-zg205zl-illuminance |
+| _TZ321C_4slreunp | TS0225 | safety-presence-mtd085-entry-range-illuminance |
+| _TZ321C_fkzihax8 | TS0225 | safety-presence-mtd085-entry-range-illuminance |
+| _TZE200_clrdrnya | TS0601 | safety-presence-mtg075-entry-controls-illuminance |
+| _TZE200_crq3r3la | CK-BL702-MWS-01(7016) | safety-presence-zg205za-illuminance |
+| _TZE200_crq3r3la | TS0225 | safety-presence-zg205za-illuminance |
+| _TZE200_gkfbdvyx | TS0601 | safety-presence-zym10024gv3-move-range-illuminance |
+| _TZE200_hl0ss9oa | TS0225 | safety-presence-zg205zl-illuminance |
+| _TZE200_mp902om5 | TS0601 | safety-presence-mtg075-entry-controls-illuminance |
+| _TZE200_sbyx0lm6 | TS0601 | safety-presence-mtg075-entry-controls-illuminance |
+| _TZE200_y4mdop0b | TS0225 | safety-presence-zg205zl-illuminance |
+| _TZE200_ya4ft0w4 | TS0601 | safety-presence-zym10024gv3-move-range-illuminance |
+| _TZE204_7gclukjs | TS0601 | safety-presence-zym10024gv2-move-range-illuminance |
+| _TZE204_clrdrnya | TS0601 | safety-presence-mtg075-entry-controls-illuminance |
+| _TZE204_dapwryy7 | TS0601 | safety-presence-zg205z-illuminance |
+| _TZE204_dtzziy1e | TS0601 | safety-presence-mtg075-entry-controls-illuminance |
+| _TZE204_e9ajs4ft | TS0601 | safety-presence-ctlr1-threshold-min-delay-illuminance |
+| _TZE204_gkfbdvyx | TS0601 | safety-presence-zym10024gv3-move-range-illuminance |
+| _TZE204_iaeejhvf | TS0601 | safety-presence-mtg075-entry-controls-illuminance |
+| _TZE204_ijxvkhd0 | TS0601 | safety-presence-zym10024g-move-threshold-min-illuminance |
+| _TZE204_mtoaryre | TS0601 | safety-presence-mtg075-entry-controls-illuminance |
+| _TZE204_nbkshs6k | TS0601 | safety-presence-zym100s3-keep-illuminance |
+| _TZE204_oqtpvx51 | TS0601 | safety-presence-yxzbrb58-range-delay-scene-illuminance |
+| _TZE204_pfayrzcw | TS0601 | safety-presence-mtg075-entry-controls-illuminance |
+| _TZE204_sbyx0lm6 | TS0601 | safety-presence-mtg075-entry-controls-illuminance |
+| _TZE204_sooucan5 | TS0601 | safety-presence-yxzbrb58-range-delay-scene-illuminance |
+| _TZE204_uxllnywp | TS0601 | safety-presence-rtzcz03z-range-illuminance |
+| _TZE204_ya4ft0w4 | TS0601 | safety-presence-zym10024gv3-move-range-illuminance |
+| _TZE284_4qznlkbu | TS0601 | safety-presence-mtg075-entry-controls-illuminance |
+
+## ef00-presence-general-wonjj6768
+
+| Manufacturer | Model | Device Profile |
+|---|---|---|
+| B3876M9 | ZP-301Z | safety-presence-zp301z-time-cycle-illuminance-battery |
+| C6B7KM9 | Excellux | safety-presence-illuminance-battery |
+| HOBEIAN | ZG-204ZE | safety-presence-zg204ze-dedicated-illuminance-battery |
+| HOBEIAN | ZG-204ZH | safety-presence-zg204zh-dedicated-mode-illuminance-temp-humidity-battery |
+| HOBEIAN | ZG-204ZK | safety-presence-zg204zk-dedicated-illuminance-battery |
+| HOBEIAN | ZG-204ZQ | safety-presence-zg204zq-illuminance-temp-humidity-battery |
+| HOBEIAN | ZG-204ZV | safety-presence-zg204zv-dedicated-illuminance-temp-humidity-battery |
+| HOBEIAN | ZG-204ZX | safety-presence-illuminance-temp-humidity-battery-zg204zx |
+| Moes | ZSS-QY-HP | safety-presence-zym100l-fixed-illuminance |
+| Nova Digital | ZTS-MM | safety-presence-zy-hps01-illuminance |
+| Tuya | ZY-M100-L | safety-presence-zym100l-fixed-illuminance |
+| ZG-204ZE | CK-BL702-MWS-01(7016) | safety-presence-zg204ze-dedicated-illuminance-battery |
+| _TZE200_0u3bj3rc | TS0601 | safety-presence-basic |
+| _TZE200_2aaelwxk | TS0225 | safety-presence-zg204zm-dedicated-mode-illuminance-battery |
+| _TZE200_2aaelwxk | TS0601 | safety-presence-zg204zm-dedicated-mode-illuminance-battery |
+| _TZE200_4pm4pekt | TS0601 | safety-presence-zg204ze-dedicated-illuminance-battery |
+| _TZE200_cq8lu23i | TS0601 | safety-presence-zg204ze-dedicated-illuminance-battery |
+| _TZE200_grgol3xp | TS0601 | safety-presence-zg204zv-dedicated-illuminance-temp-humidity-battery |
+| _TZE200_hdih4foa | TS0601 | safety-presence-zg204zh-dedicated-mode-illuminance-temp-humidity-battery |
+| _TZE200_holel4dk | TS0601 | safety-presence-zym100l-fixed-illuminance |
+| _TZE200_hyhl5y36 | TS0601 | safety-presence-msa201-illuminance |
+| _TZE200_ikvncluo | TS0601 | safety-presence-zym100l-fixed-illuminance |
+| _TZE200_jkbljri7 | TS0601 | safety-presence-mir-fall-illuminance |
+| _TZE200_juzago6i | TS0601 | safety-presence-pir24g-dedicated-illuminance-battery |
+| _TZE200_jva8ink8 | TS0601 | safety-presence-zym100l-fixed-illuminance |
+| _TZE200_ka8l86iu | TS0601 | safety-presence-zg204zk-dedicated-illuminance-battery |
+| _TZE200_kb5noeto | TS0601 | safety-presence-zg204zm-dedicated-mode-illuminance-battery |
+| _TZE200_lu01t0zl | TS0601 | safety-presence-mir-fall-illuminance |
+| _TZE200_lyetpprm | TS0601 | safety-presence-zym100l-fixed-illuminance |
+| _TZE200_mgxy2d9f | TS0601 | safety-motion-tamper-battery |
+| _TZE200_mx6u6l4y | TS0601 | safety-presence-basic |
+| _TZE200_p9zbdqgs | TS0601 | safety-presence-zg204zq-illuminance-temp-humidity-battery |
+| _TZE200_qasjif9e | TS0601 | safety-presence-zym100s2-range-delay-illuminance |
+| _TZE200_rhgsbacq | TS0601 | safety-presence-zg204zv-dedicated-illuminance-temp-humidity-battery |
+| _TZE200_sgpeacqp | TS0601 | safety-presence-zym100l-fixed-illuminance |
+| _TZE200_tyffvoij | TS0601 | safety-presence-zg204zm-dedicated-mode-illuminance-battery |
+| _TZE200_uli8wasj | TS0601 | safety-presence-zg204zv-dedicated-illuminance-temp-humidity-battery |
+| _TZE200_v6ossqfy | TS0601 | safety-presence-basic |
+| _TZE200_vrfecyku | TS0601 | safety-presence-mir-fall-illuminance |
+| _TZE200_vuqzj1ej | TS0601 | safety-presence-zg204zh-dedicated-mode-illuminance-temp-humidity-battery |
+| _TZE200_w0ap83qu | TS0601 | safety-presence-illuminance-temp-humidity-battery-zg204zx |
+| _TZE200_wukb7rhc | TS0601 | safety-presence-zym100l-fixed-illuminance |
+| _TZE200_xpq2rzhq | TS0601 | safety-presence-zym100l-fixed-illuminance |
+| _TZE200_y8jijhba | TS0601 | safety-presence-zg204zv-dedicated-illuminance-temp-humidity-battery |
+| _TZE200_yflzeeqj | TS0601 | safety-presence-zg204zm-dedicated-mode-illuminance-battery |
+| _TZE200_ypprdwsl | TS0601 | safety-presence-mir-fall-illuminance |
+| _TZE200_zbfmvj13 | TS0601 | safety-presence-zg204zk-dedicated-illuminance-battery |
+| _TZE200_ztc6ggyl | TS0601 | safety-presence-zym100l-fixed-illuminance |
+| _TZE204_aai5grix | TS0601 | safety-presence-illuminance |
+| _TZE204_bmdsp6bs | TS0601 | safety-presence-y1in-dedicated-illuminance |
+| _TZE204_bvfld3xc | TS0601 | safety-presence-mir-fall-illuminance |
+| _TZE204_debczeci | TS0601 | safety-presence-basic-delay-battery |
+| _TZE204_e5m9c5hl | TS0601 | safety-presence-zym100s1-range-delay-illuminance |
+| _TZE204_eaulras5 | TS0601 | safety-presence-illuminance |
+| _TZE204_ex3rcdha | TS0601 | safety-presence-zy-hps01-illuminance |
+| _TZE204_fwondbzy | TS0601 | safety-presence-zym100l-fixed-illuminance |
+| _TZE204_iadro9bf | TS0601 | safety-presence-zym100s2-range-delay-illuminance |
+| _TZE204_kyhbrfyl | TS0601 | safety-presence-range-illuminance |
+| _TZE204_laokfqwu | TS0601 | safety-presence-wzm100-range-delay-illuminance |
+| _TZE204_lbbg34rj | TS0601 | safety-presence-zy-hps01-illuminance |
+| _TZE204_mhxn2jso | TS0601 | safety-presence-range-delay-illuminance |
+| _TZE204_muvkrjr5 | TS0601 | safety-presence |
+| _TZE204_no6qtgtl | TS0601 | safety-presence-range-illuminance |
+| _TZE204_qasjif9e | TS0601 | safety-presence-zym100s2-range-delay-illuminance |
+| _TZE204_sxm7l9xa | TS0601 | safety-presence-zym100s1-range-delay-illuminance |
+| _TZE204_xpq2rzhq | TS0601 | safety-presence-zym100l-fixed-illuminance |
+| _TZE204_xsm7l9xa | TS0601 | safety-presence-zym100l-fixed-illuminance |
+| _TZE204_ztc6ggyl | TS0601 | safety-presence-zym100l-fixed-illuminance |
+| _TZE204_ztqnh5cg | TS0601 | safety-presence-zym100s2-range-delay-illuminance |
+| _TZE284_1lvln0x6 | TS0601 | safety-presence-basic-delay-battery |
+| _TZE284_aai5grix | TS0601 | safety-presence-illuminance |
+| _TZE284_ajuasrmx | TS0601 | safety-presence-msa201-illuminance |
+| _TZE284_bw4ayyeh | TS0601 | safety-presence-illuminance-battery |
+| _TZE284_d4h8j2n6 | ZP-301Z | safety-presence-zp301z-time-cycle-illuminance-battery |
+| _TZE284_debczeci | TS0601 | safety-presence-basic-delay-battery |
+| _TZE284_fwondbzy | TS0601 | safety-presence-zym100l-fixed-illuminance |
+| _TZE284_gnpflcoq | TS0601 | safety-presence-gnpflcoq-illuminance-temp-humidity-battery |
+| _TZE284_hgeqeyuv | TS0601 | safety-presence-zf24-move-illuminance |
+| _TZE284_iadro9bf | TS0601 | safety-presence-zym100s2-range-delay-illuminance |
+| _TZE284_ozf4e02o | TS0601 | safety-presence-msa201-illuminance |
+| _TZE284_pzm3wab5 | TS0601 | safety-presence-zf24-move-illuminance |
+| _TZE284_twybxdzl | TS0601 | safety-presence-zf24-move-illuminance |
+| _TZE284_vceqncho | TS0601 | safety-presence-zis01p-illuminance-battery |
+| _TZE284_who1jxwd | TS0601 | safety-presence-zis01p-illuminance-battery |
+
+## ef00-presence-switch-wonjj6768
+
+| Manufacturer | Model | Device Profile |
+|---|---|---|
+| HOBEIAN | ZG-302ZL | switches-presence-switch-3 |
+| HOBEIAN | ZG-302ZM | switches-presence-switch-3 |
+| Novato | ZIS-04 | safety-presence-switch-illuminance |
+| _TZE200_ahpcyzth | TS0601 | switches-presence-switch-3 |
+| _TZE200_bfmfhxra | TS0601 | switches-presence-switch-3 |
+| _TZE200_cqtamhh5 | TS0601 | switches-presence-switch-3 |
+| _TZE200_df04ghrb | TS0601 | switches-presence-switch-3 |
+| _TZE200_kccdzaeo | TS0601 | switches-presence-switch-3 |
+| _TZE200_khzbklyh | TS0601 | switches-presence-switch-3 |
+| _TZE200_kijxnb8q | TS0601 | switches-presence-switch-3 |
+| _TZE200_llvwkkde | TS0601 | switches-presence-switch-3 |
+| _TZE200_s7rsrtbg | TS0601 | switches-presence-switch-3 |
+| _TZE200_tmszbtzq | TS0601 | switches-presence-switch-3 |
+| _TZE200_toeldckg | TS0601 | switches-presence-switch-3 |
+| _TZE200_xlnzk169 | TS0601 | switches-presence-switch-3 |
+| _TZE204_f2rflfa6 | TS0601 | safety-presence-switch-illuminance |
+| _TZE204_izy1g1mb | TS0601 | safety-presence-switch-illuminance |
 
 ## ef00-safety-wonjj6768
 
@@ -1640,6 +1812,13 @@ https://bestow-regional.api.smartthings.com/invite/d4297OmXrQjo
 | Shelly | BLU RC Button 4 ZB | buttons-button-4-battery |
 | Shelly | BLU Remote Control ZB | buttons-button-4-battery |
 | Shelly | SBBT-104CEU | buttons-button-1-battery |
+| Slacky-DIY | TS0041-M001-SlD | buttons-button-1-battery-remote-action |
+| Slacky-DIY | TS0041-M002-SlD | buttons-button-1-battery-remote-action |
+| Slacky-DIY | TS0041-M005-SlD | buttons-button-1-battery-remote-action |
+| Slacky-DIY | TS0042-M003-SlD | buttons-button-2-battery-remote-action |
+| Slacky-DIY | TS0042-z-SlD | buttons-button-2-battery-remote-action |
+| Slacky-DIY | TS0044-M004-SlD | buttons-button-4-battery-remote-action |
+| Slacky-DIY | TS0044-z-SlD | buttons-button-4-battery-remote-action |
 | Smart9 | S9TSZGB | buttons-button-1-battery |
 | Sunricher | SR-ZG2833PAC | controllers-dimming-remote-action |
 | Sunricher | SR-ZG9001K12-DIM-Z4 | controllers-dimming-remote-action |
@@ -1686,6 +1865,7 @@ https://bestow-regional.api.smartthings.com/invite/d4297OmXrQjo
 | _TZ3000_11pg3ima | TS004F | buttons-button-4-battery-operation-mode-remote-action |
 | _TZ3000_1fqpj6qz | TS004F | buttons-button-1-battery-operation-mode-remote-action |
 | _TZ3000_1hypixdr | TS0044 | buttons-button-4-battery |
+| _TZ3000_1kmurvlx | TS0043 | buttons-button-3-battery |
 | _TZ3000_1yyjhvwd | TS0042 | buttons-button-2-battery |
 | _TZ3000_22ugzkme | TS0041 | buttons-button-1-battery |
 | _TZ3000_2izubafb | TS0215A | security-remotes-sos-battery |
@@ -1718,6 +1898,7 @@ https://bestow-regional.api.smartthings.com/invite/d4297OmXrQjo
 | _TZ3000_b4awzgct | TS0041 | buttons-button-1-battery |
 | _TZ3000_bgtzm4ny | TS0044 | buttons-button-4-battery |
 | _TZ3000_bi6lpsew | TS0043 | buttons-button-3-battery |
+| _TZ3000_cllghx1k | TS0042 | buttons-button-2-battery |
 | _TZ3000_csflgqj2 | TS004F | buttons-button-1-battery-operation-mode-remote-action |
 | _TZ3000_cumqn2av | TS0726 | scene-switches-4-plus-2 |
 | _TZ3000_cumqn2av | TS0726_4_gang_switch_and_2_scene | scene-switches-4-plus-2 |
@@ -1737,6 +1918,7 @@ https://bestow-regional.api.smartthings.com/invite/d4297OmXrQjo
 | _TZ3000_ezqbvrqz | TS0726_2_gang_scene_switch | scene-switches-scene-2 |
 | _TZ3000_fa9mlvja | TS0041 | buttons-button-1-battery |
 | _TZ3000_famkxci2 | TS0043 | buttons-button-3-battery |
+| _TZ3000_filhl5b7 | TS0041 | buttons-button-1-battery |
 | _TZ3000_fkvaniuu | TS0042 | buttons-button-2-battery |
 | _TZ3000_fsiepnrh | TS0215A | security-remotes-action-battery |
 | _TZ3000_fsiepnrh | TS0215A_remote | security-remotes-action-battery |
@@ -1809,7 +1991,7 @@ https://bestow-regional.api.smartthings.com/invite/d4297OmXrQjo
 | _TZ3000_r0o2dahu | TS004F | buttons-button-6-battery-operation-mode-remote-action |
 | _TZ3000_r2fgo9ks | TS0726 | scene-switches-scene-3 |
 | _TZ3000_r2fgo9ks | TS0726_3_gang_scene_switch | scene-switches-scene-3 |
-| _TZ3000_rco1yzb1 | TS004F | buttons-button-1-battery |
+| _TZ3000_rco1yzb1 | TS004F | buttons-button-1-battery-remote-action |
 | _TZ3000_rrjr1q0u | TS0043 | buttons-button-3-battery |
 | _TZ3000_rsqqkdxv | TS0041 | buttons-button-1-battery |
 | _TZ3000_rsylfthg | TS0726 | scene-switches-scene-4 |
@@ -1842,6 +2024,7 @@ https://bestow-regional.api.smartthings.com/invite/d4297OmXrQjo
 | _TZ3000_w4thianr | TS0043 | buttons-button-3-battery |
 | _TZ3000_w8jwkczz | TS0043 | buttons-button-3-battery |
 | _TZ3000_wbfgbpxq | TS0044 | buttons-button-4-battery |
+| _TZ3000_wc3gjyp3 | TS004F | buttons-button-1-battery-operation-mode-remote-action |
 | _TZ3000_wkai4ga5 | TS0044 | buttons-button-4-battery |
 | _TZ3000_wopf2sox | TS0726 | scene-switches-1-advanced |
 | _TZ3000_wopf2sox | TS0726_multi_1_gang | scene-switches-1-advanced |
@@ -1985,7 +2168,11 @@ https://bestow-regional.api.smartthings.com/invite/d4297OmXrQjo
 | Nous | B4Z | covers-cover |
 | Nous | L12Z | covers-cover |
 | QA | QACZ1 | covers-cover |
+| Sunricher | HK-ZCC-A | covers-cover |
 | Sunricher | SR-ZG9080A | covers-cover |
+| Third Reality, Inc | 3RSB015BZ | covers-cover-battery |
+| Third Reality, Inc | 3RSB02015Z | covers-cover-battery |
+| Third Reality, Inc | TRZB3 | covers-cover |
 | Tuya | GM35TEQ-TYZ-2/25 | covers-cover |
 | Yookee | D10110_1 | covers-cover |
 | Zemismart | TS130F_ZEMISMART | covers-cover |
@@ -2082,6 +2269,66 @@ https://bestow-regional.api.smartthings.com/invite/d4297OmXrQjo
 | Elko | EKO07281 | lights-dimmer |
 | Exxact | WDE002962 | lights-dimmer |
 | Exxact | WDE003962 | lights-dimmer |
+| GLEDOPTO | GL-B-001P | lights-color-temperature-color |
+| GLEDOPTO | GL-B-001Z | lights-color-temperature-color |
+| GLEDOPTO | GL-B-001ZS | lights-color-temperature-color |
+| GLEDOPTO | GL-B-002P | lights-color-temperature |
+| GLEDOPTO | GL-B-003P | lights-color-temperature-color |
+| GLEDOPTO | GL-B-004P | lights-color-temperature |
+| GLEDOPTO | GL-B-007P | lights-color-temperature-color |
+| GLEDOPTO | GL-B-007Z | lights-color-temperature-color |
+| GLEDOPTO | GL-B-007ZS | lights-color-temperature-color |
+| GLEDOPTO | GL-B-008P | lights-color-temperature-color |
+| GLEDOPTO | GL-B-008Z | lights-color-temperature-color |
+| GLEDOPTO | GL-B-008ZS | lights-color-temperature-color |
+| GLEDOPTO | GL-C-004P | lights-color-temperature |
+| GLEDOPTO | GL-D-001P | lights-color-temperature-color |
+| GLEDOPTO | GL-D-002P | lights-color-temperature-color |
+| GLEDOPTO | GL-D-003P | lights-color-temperature-color |
+| GLEDOPTO | GL-D-003Z | lights-color-temperature-color |
+| GLEDOPTO | GL-D-003ZS | lights-color-temperature-color |
+| GLEDOPTO | GL-D-004P | lights-color-temperature-color |
+| GLEDOPTO | GL-D-004Z | lights-color-temperature-color |
+| GLEDOPTO | GL-D-004ZS | lights-color-temperature-color |
+| GLEDOPTO | GL-D-005P | lights-color-temperature-color |
+| GLEDOPTO | GL-D-005Z | lights-color-temperature-color |
+| GLEDOPTO | GL-D-005ZS | lights-color-temperature-color |
+| GLEDOPTO | GL-D-006P | lights-color-temperature-color |
+| GLEDOPTO | GL-D-007P | lights-color-temperature-color |
+| GLEDOPTO | GL-D-008P | lights-color-temperature-color |
+| GLEDOPTO | GL-D-009P | lights-color-temperature-color |
+| GLEDOPTO | GL-D-010P | lights-color-temperature-color |
+| GLEDOPTO | GL-D-013P | lights-color-temperature-color |
+| GLEDOPTO | GL-D-015P | lights-color-temperature-color |
+| GLEDOPTO | GL-FL-001P | lights-color-temperature-color |
+| GLEDOPTO | GL-FL-004P | lights-color-temperature-color |
+| GLEDOPTO | GL-FL-004TZ | lights-color-temperature-color |
+| GLEDOPTO | GL-FL-004TZP | lights-color-temperature-color |
+| GLEDOPTO | GL-FL-004TZS | lights-color-temperature-color |
+| GLEDOPTO | GL-FL-005P | lights-color-temperature-color |
+| GLEDOPTO | GL-FL-005TZ | lights-color-temperature-color |
+| GLEDOPTO | GL-FL-005TZP | lights-color-temperature-color |
+| GLEDOPTO | GL-FL-005TZS | lights-color-temperature-color |
+| GLEDOPTO | GL-FL-006P | lights-color-temperature-color |
+| GLEDOPTO | GL-FL-006TZ | lights-color-temperature-color |
+| GLEDOPTO | GL-FL-006TZP | lights-color-temperature-color |
+| GLEDOPTO | GL-FL-006TZS | lights-color-temperature-color |
+| GLEDOPTO | GL-FL-007P | lights-color-temperature-color |
+| GLEDOPTO | GL-G-003P | lights-color-temperature-color |
+| GLEDOPTO | GL-G-004P | lights-color-temperature-color |
+| GLEDOPTO | GL-G-005P | lights-color-temperature-color |
+| GLEDOPTO | GL-S-003Z | lights-color |
+| GLEDOPTO | GL-S-004P | lights-color-temperature-color |
+| GLEDOPTO | GL-S-004Z | lights-color-temperature-color |
+| GLEDOPTO | GL-S-004ZS | lights-color-temperature-color |
+| GLEDOPTO | GL-S-005P | lights-color-temperature-color |
+| GLEDOPTO | GL-S-005Z | lights-color-temperature-color |
+| GLEDOPTO | GL-S-007P | lights-color-temperature-color |
+| GLEDOPTO | GL-S-007Z | lights-color-temperature-color |
+| GLEDOPTO | GL-S-007Z(lk) | lights-color-temperature-color |
+| GLEDOPTO | GL-S-007ZS | lights-color-temperature-color |
+| GLEDOPTO | GL-S-008Z | lights-color-temperature-color |
+| GLEDOPTO | GL-S-014P | lights-color-temperature-color |
 | Garza Smart | Garza-Standard-A60 | lights-color-temperature-color |
 | Gledopto | GL-C-001P | lights-color-temperature-color |
 | Gledopto | GL-C-002P | lights-color-temperature-color |
@@ -2096,6 +2343,8 @@ https://bestow-regional.api.smartthings.com/invite/d4297OmXrQjo
 | Gledopto | GL-C-203P | lights-color-temperature |
 | Gledopto | GL-C-204P | lights-color-temperature-color |
 | Gledopto | GL-C-301P | lights-color-temperature-color |
+| HEIMAN | ColorLight | lights-color-temperature-color |
+| HEIMAN | TemperLight | lights-color-temperature |
 | HZC | Dimmer-Switch-ZB3.0 | lights-dimmer |
 | Heatit Controls AB | Dimmer-Switch-ZB3.0 | lights-dimmer |
 | Hilux | Dimmer-Switch-ZB3.0 | lights-dimmer |
@@ -2110,10 +2359,210 @@ https://bestow-regional.api.smartthings.com/invite/d4297OmXrQjo
 | IKEA | E2220 | lights-color-temperature |
 | IKEA | E2223 | lights-color-temperature-color |
 | IKEA | E2224 | lights-color-temperature-color |
+| IKEA of Sweden | FLOALT panel WS 30x30 | lights-color-temperature |
+| IKEA of Sweden | FLOALT panel WS 30x90 | lights-color-temperature |
+| IKEA of Sweden | FLOALT panel WS 60x60 | lights-color-temperature |
+| IKEA of Sweden | GUNNARP panel 40*40 | lights-color-temperature |
+| IKEA of Sweden | GUNNARP panel round | lights-color-temperature |
+| IKEA of Sweden | JETSTROM 3030 NA wall | lights-color-temperature-color |
+| IKEA of Sweden | JETSTROM 3030 ceiling | lights-color-temperature-color |
+| IKEA of Sweden | JETSTROM 3030 wall | lights-color-temperature-color |
+| IKEA of Sweden | JETSTROM 40100 | lights-color-temperature |
+| IKEA of Sweden | JETSTROM 40100 NA | lights-color-temperature |
+| IKEA of Sweden | JETSTROM 6060 | lights-color-temperature |
+| IKEA of Sweden | JETSTROM 6060 JP | lights-color-temperature |
+| IKEA of Sweden | JETSTROM 6060 NA | lights-color-temperature |
+| IKEA of Sweden | JORMLIEN door WS 40x80 | lights-color-temperature |
+| IKEA of Sweden | LEPTITER Recessed spot light | lights-color-temperature |
+| IKEA of Sweden | SURTE door WS 38x64 | lights-color-temperature |
+| IKEA of Sweden | TRADFRI bulb E12 CWS 450lm | lights-color-temperature-color |
+| IKEA of Sweden | TRADFRI bulb E12 CWS globe 800lm | lights-color-temperature-color |
+| IKEA of Sweden | TRADFRI bulb E12 CWS opal 600lm | lights-color-temperature-color |
+| IKEA of Sweden | TRADFRI bulb E12 W op/ch 400lm | lights-dimmer |
+| IKEA of Sweden | TRADFRI bulb E12 WS 450lm | lights-color-temperature |
+| IKEA of Sweden | TRADFRI bulb E12 WS candle 450lm | lights-color-temperature |
+| IKEA of Sweden | TRADFRI bulb E12 WS globe 450lm | lights-color-temperature |
+| IKEA of Sweden | TRADFRI bulb E12 WS opal 400lm | lights-color-temperature |
+| IKEA of Sweden | TRADFRI bulb E12 WS opal 600lm | lights-color-temperature |
+| IKEA of Sweden | TRADFRI bulb E14 CWS 470lm | lights-color-temperature-color |
+| IKEA of Sweden | TRADFRI bulb E14 CWS globe 806lm | lights-color-temperature-color |
+| IKEA of Sweden | TRADFRI bulb E14 CWS opal 600lm | lights-color-temperature-color |
+| IKEA of Sweden | TRADFRI bulb E14 W op/ch 400lm | lights-dimmer |
+| IKEA of Sweden | TRADFRI bulb E14 WS 470lm | lights-color-temperature |
+| IKEA of Sweden | TRADFRI bulb E14 WS candle 470lm | lights-color-temperature |
+| IKEA of Sweden | TRADFRI bulb E14 WS globe 470lm | lights-color-temperature |
+| IKEA of Sweden | TRADFRI bulb E14 WS opal 400lm | lights-color-temperature |
+| IKEA of Sweden | TRADFRI bulb E14 WS opal 600lm | lights-color-temperature |
+| IKEA of Sweden | TRADFRI bulb E17 CWS 440lm | lights-color-temperature-color |
+| IKEA of Sweden | TRADFRI bulb E17 CWS globe 810lm | lights-color-temperature-color |
+| IKEA of Sweden | TRADFRI bulb E17 W op/ch 400lm | lights-dimmer |
+| IKEA of Sweden | TRADFRI bulb E17 WS 440lm | lights-color-temperature |
+| IKEA of Sweden | TRADFRI bulb E17 WS candle 440lm | lights-color-temperature |
+| IKEA of Sweden | TRADFRI bulb E17 WS globe 440lm | lights-color-temperature |
+| IKEA of Sweden | TRADFRI bulb E17 WS opal 600lm | lights-color-temperature |
+| IKEA of Sweden | TRADFRI bulb E26 CWS 800lm | lights-color-temperature-color |
+| IKEA of Sweden | TRADFRI bulb E26 CWS 806lm | lights-color-temperature-color |
+| IKEA of Sweden | TRADFRI bulb E26 CWS 810lm | lights-color-temperature-color |
+| IKEA of Sweden | TRADFRI bulb E26 CWS globe 800lm | lights-color-temperature-color |
+| IKEA of Sweden | TRADFRI bulb E26 CWS globe 806lm | lights-color-temperature-color |
+| IKEA of Sweden | TRADFRI bulb E26 CWS globe 810lm | lights-color-temperature-color |
+| IKEA of Sweden | TRADFRI bulb E26 CWS opal 600lm | lights-color-temperature-color |
+| IKEA of Sweden | TRADFRI bulb E26 W opal 1000lm | lights-dimmer |
+| IKEA of Sweden | TRADFRI bulb E26 WS clear 806lm | lights-color-temperature |
+| IKEA of Sweden | TRADFRI bulb E26 WS clear 950lm | lights-color-temperature |
+| IKEA of Sweden | TRADFRI bulb E26 WS globe 1055lm | lights-color-temperature |
+| IKEA of Sweden | TRADFRI bulb E26 WS globe 1100lm | lights-color-temperature |
+| IKEA of Sweden | TRADFRI bulb E26 WS globe 1160lm | lights-color-temperature |
+| IKEA of Sweden | TRADFRI bulb E26 WS opal 1000lm | lights-color-temperature |
+| IKEA of Sweden | TRADFRI bulb E26 WS opal 440lm | lights-color-temperature |
+| IKEA of Sweden | TRADFRI bulb E26 WS opal 980lm | lights-color-temperature |
+| IKEA of Sweden | TRADFRI bulb E26 WW 806lm | lights-dimmer |
+| IKEA of Sweden | TRADFRI bulb E26 WW G95 CL 440lm | lights-dimmer |
+| IKEA of Sweden | TRADFRI bulb E26 WW G95 CL 450lm | lights-dimmer |
+| IKEA of Sweden | TRADFRI bulb E26 WW G95 CL 470lm | lights-dimmer |
+| IKEA of Sweden | TRADFRI bulb E26 WW clear 250lm | lights-dimmer |
+| IKEA of Sweden | TRADFRI bulb E26 WW globe 800lm | lights-dimmer |
+| IKEA of Sweden | TRADFRI bulb E26 WW globe 806lm | lights-dimmer |
+| IKEA of Sweden | TRADFRI bulb E26 WW globe 810lm | lights-dimmer |
+| IKEA of Sweden | TRADFRI bulb E26 opal 1000lm | lights-dimmer |
+| IKEA of Sweden | TRADFRI bulb E27 C/WS opal 600 | lights-color-temperature-color |
+| IKEA of Sweden | TRADFRI bulb E27 CWS 806lm | lights-color-temperature-color |
+| IKEA of Sweden | TRADFRI bulb E27 CWS globe 806lm | lights-color-temperature-color |
+| IKEA of Sweden | TRADFRI bulb E27 CWS opal 600lm | lights-color-temperature-color |
+| IKEA of Sweden | TRADFRI bulb E27 W opal 1000lm | lights-dimmer |
+| IKEA of Sweden | TRADFRI bulb E27 W opal 470lm | lights-color-temperature |
+| IKEA of Sweden | TRADFRI bulb E27 WS clear 806lm | lights-color-temperature |
+| IKEA of Sweden | TRADFRI bulb E27 WS clear 950lm | lights-color-temperature |
+| IKEA of Sweden | TRADFRI bulb E27 WS globe 1055lm | lights-color-temperature |
+| IKEA of Sweden | TRADFRI bulb E27 WS opal 1000lm | lights-color-temperature |
+| IKEA of Sweden | TRADFRI bulb E27 WS opal 980lm | lights-color-temperature |
+| IKEA of Sweden | TRADFRI bulb E27 WS�clear 950lm | lights-color-temperature |
+| IKEA of Sweden | TRADFRI bulb E27 WS�opal 980lm | lights-color-temperature |
+| IKEA of Sweden | TRADFRI bulb E27 WW 806lm | lights-dimmer |
+| IKEA of Sweden | TRADFRI bulb E27 WW G95 CL 470lm | lights-dimmer |
+| IKEA of Sweden | TRADFRI bulb E27 WW clear 250lm | lights-dimmer |
+| IKEA of Sweden | TRADFRI bulb E27 WW globe 806lm | lights-dimmer |
+| IKEA of Sweden | TRADFRI bulb E27 opal 1000lm | lights-dimmer |
+| IKEA of Sweden | TRADFRI bulb E27 opal 470lm | lights-color-temperature |
+| IKEA of Sweden | TRADFRI bulb GU10 CWS 345lm | lights-color-temperature-color |
+| IKEA of Sweden | TRADFRI bulb GU10 CWS 380lm | lights-color-temperature-color |
+| IKEA of Sweden | TRADFRI bulb GU10 W 400lm | lights-dimmer |
+| IKEA of Sweden | TRADFRI bulb GU10 WS 345lm | lights-color-temperature |
+| IKEA of Sweden | TRADFRI bulb GU10 WS 380lm | lights-color-temperature |
+| IKEA of Sweden | TRADFRI bulb GU10 WS 400lm | lights-color-temperature |
+| IKEA of Sweden | TRADFRI bulb GU10 WW 345lm | lights-dimmer |
+| IKEA of Sweden | TRADFRI bulb GU10 WW 380lm | lights-dimmer |
+| IKEA of Sweden | TRADFRI bulb GU10 WW 400lm | lights-dimmer |
+| IKEA of Sweden | TRADFRI_bulb_GU10_WS_345lm | lights-color-temperature |
+| IKEA of Sweden | TRADFRIbulbB22WSglobeopal1055lm | lights-color-temperature |
+| IKEA of Sweden | TRADFRIbulbE12WScandleopal450lm | lights-color-temperature |
+| IKEA of Sweden | TRADFRIbulbE12WSglobeopal470lm | lights-color-temperature |
+| IKEA of Sweden | TRADFRIbulbE12WWcandleclear250lm | lights-dimmer |
+| IKEA of Sweden | TRADFRIbulbE12WWclear250lm | lights-dimmer |
+| IKEA of Sweden | TRADFRIbulbE14WScandleopal470lm | lights-color-temperature |
+| IKEA of Sweden | TRADFRIbulbE14WSglobeopal470lm | lights-color-temperature |
+| IKEA of Sweden | TRADFRIbulbE14WWclear250lm | lights-dimmer |
+| IKEA of Sweden | TRADFRIbulbE17WScandleopal440lm | lights-color-temperature |
+| IKEA of Sweden | TRADFRIbulbE17WSglobeopal470lm | lights-color-temperature |
+| IKEA of Sweden | TRADFRIbulbE17WWclear250lm | lights-dimmer |
+| IKEA of Sweden | TRADFRIbulbE26WSglobeclear800lm | lights-color-temperature |
+| IKEA of Sweden | TRADFRIbulbE26WSglobeclear806lm | lights-color-temperature |
+| IKEA of Sweden | TRADFRIbulbE26WSglobeclear810lm | lights-color-temperature |
+| IKEA of Sweden | TRADFRIbulbE26WSglobeopal1055lm | lights-color-temperature |
+| IKEA of Sweden | TRADFRIbulbE26WSglobeopal1100lm | lights-color-temperature |
+| IKEA of Sweden | TRADFRIbulbE26WSglobeopal1160lm | lights-color-temperature |
+| IKEA of Sweden | TRADFRIbulbE26WWclear250lm | lights-dimmer |
+| IKEA of Sweden | TRADFRIbulbE26WWglobeclear250lm | lights-dimmer |
+| IKEA of Sweden | TRADFRIbulbE27WSglobeclear806lm | lights-color-temperature |
+| IKEA of Sweden | TRADFRIbulbE27WSglobeopal1055lm | lights-color-temperature |
+| IKEA of Sweden | TRADFRIbulbE27WWclear250lm | lights-dimmer |
+| IKEA of Sweden | TRADFRIbulbG125E26WSopal440lm | lights-color-temperature |
+| IKEA of Sweden | TRADFRIbulbG125E26WSopal450lm | lights-color-temperature |
+| IKEA of Sweden | TRADFRIbulbG125E26WSopal470lm | lights-color-temperature |
+| IKEA of Sweden | TRADFRIbulbG125E27WSopal470lm | lights-color-temperature |
+| IKEA of Sweden | TRADFRIbulbGU10WS345lm | lights-color-temperature |
+| IKEA of Sweden | TRADFRIbulbGU10WS380lm | lights-color-temperature |
+| IKEA of Sweden | TRADFRIbulbPAR38WS900lm | lights-color-temperature |
+| IKEA of Sweden | TRADFRIbulbT120E26WSopal440lm | lights-color-temperature |
+| IKEA of Sweden | TRADFRIbulbT120E26WSopal450lm | lights-color-temperature |
+| IKEA of Sweden | TRADFRIbulbT120E26WSopal470lm | lights-color-temperature |
+| IKEA of Sweden | TRADFRIbulbT120E27WSopal470lm | lights-color-temperature |
 | Iluminize | 511.344 | lights-dimmer |
 | Iluminize | DIM Lighting | lights-dimmer |
 | Iluminize | RGBW-CCT | lights-color-temperature-color |
 | Iluminize | RGBWW Lighting | lights-color-temperature-color |
+| Innr | AE 260 | lights-dimmer |
+| Innr | AE 262 | lights-dimmer |
+| Innr | AE 264 | lights-dimmer |
+| Innr | AE 270 T | lights-color-temperature |
+| Innr | AE 270 T-2 | lights-color-temperature |
+| Innr | AE 280 C | lights-color-temperature-color |
+| Innr | AE 282 C | lights-color-temperature-color |
+| Innr | AE 287 C | lights-color-temperature-color |
+| Innr | BB 262 | lights-dimmer |
+| Innr | BB 282 C | lights-color-temperature-color |
+| Innr | BB 287 C | lights-color-temperature-color |
+| Innr | BB 287 C-2 | lights-color-temperature-color |
+| Innr | BE 220 | lights-dimmer |
+| Innr | BF 263 | lights-dimmer |
+| Innr | BF 265 | lights-dimmer |
+| Innr | BY 165 | lights-dimmer |
+| Innr | BY 178 T | lights-color-temperature-color |
+| Innr | BY 185 C | lights-color-temperature-color |
+| Innr | BY 265 | lights-dimmer |
+| Innr | BY 266 | lights-dimmer |
+| Innr | BY 285 C | lights-color-temperature-color |
+| Innr | BY 286 C | lights-color-temperature-color |
+| Innr | FL 122 C | lights-color-temperature-color |
+| Innr | FL 230 C | lights-color-temperature-color |
+| Innr | FL 250 C | lights-color-temperature-color |
+| Innr | OFL 120 C | lights-color-temperature-color |
+| Innr | OFL 122 C | lights-color-temperature-color |
+| Innr | OFL 140 C | lights-color-temperature-color |
+| Innr | OFL 142 C | lights-color-temperature-color |
+| Innr | OGL 130 C | lights-color-temperature-color |
+| Innr | OLS 210 | lights-dimmer |
+| Innr | OPL 130 C | lights-color-temperature-color |
+| Innr | PL 110 | lights-dimmer |
+| Innr | PL 115 | lights-dimmer |
+| Innr | RB 162 | lights-dimmer |
+| Innr | RB 165 | lights-dimmer |
+| Innr | RB 172 W | lights-dimmer |
+| Innr | RB 175 W | lights-dimmer |
+| Innr | RB 178 T | lights-color-temperature |
+| Innr | RB 185 C | lights-color-temperature-color |
+| Innr | RB 246 T | lights-color-temperature-color |
+| Innr | RB 250 C | lights-color-temperature-color |
+| Innr | RB 251 C | lights-color-temperature-color |
+| Innr | RB 252 C | lights-color-temperature-color |
+| Innr | RB 255 C | lights-color-temperature-color |
+| Innr | RB 256 C | lights-color-temperature-color |
+| Innr | RB 262 | lights-dimmer |
+| Innr | RB 265 | lights-dimmer |
+| Innr | RB 266 | lights-dimmer |
+| Innr | RB 267 | lights-dimmer |
+| Innr | RB 272 T | lights-color-temperature |
+| Innr | RB 278 T | lights-color-temperature |
+| Innr | RB 279 T | lights-color-temperature |
+| Innr | RB 282 C | lights-color-temperature-color |
+| Innr | RB 285 C | lights-color-temperature-color |
+| Innr | RB 286 C | lights-color-temperature-color |
+| Innr | RB 287 C | lights-color-temperature-color |
+| Innr | RCL 110 | lights-dimmer |
+| Innr | RCL 231 T | lights-color-temperature |
+| Innr | RCL 232 C | lights-color-temperature-color |
+| Innr | RF 261 | lights-dimmer |
+| Innr | RF 262 | lights-dimmer |
+| Innr | RF 263 | lights-dimmer |
+| Innr | RF 264 | lights-dimmer |
+| Innr | RF 265 | lights-dimmer |
+| Innr | RF 271 T | lights-color-temperature |
+| Innr | RF 273 T | lights-color-temperature |
+| Innr | RF 274 T | lights-color-temperature |
+| Innr | RSL 110 | lights-dimmer |
+| Innr | RSL 115 | lights-dimmer |
+| Innr | ST 110 | lights-dimmer |
+| Innr | UC 110 | lights-dimmer |
 | Jung | ZLLA5004M | lights-dimmer |
 | Jung | ZLLCD5004M | lights-dimmer |
 | Jung | ZLLLS5004M | lights-dimmer |
@@ -2123,6 +2572,49 @@ https://bestow-regional.api.smartthings.com/invite/d4297OmXrQjo
 | LDS | ZBT-CCTLight-GU100904 | lights-color-temperature |
 | LED-Trading | 9125 | lights-dimmer |
 | LEDEPLY | SG45-E26 | lights-color-temperature-color |
+| LEDVANCE | A60 DIM T | lights-dimmer |
+| LEDVANCE | A60 FIL DIM T | lights-dimmer |
+| LEDVANCE | A60 RGBW B22D T | lights-color-temperature-color |
+| LEDVANCE | A60 RGBW T | lights-color-temperature-color |
+| LEDVANCE | A60 RGBW Value II | lights-color-temperature-color |
+| LEDVANCE | A60 TW T | lights-color-temperature |
+| LEDVANCE | A60S RGBW | lights-color-temperature-color |
+| LEDVANCE | A60S TW | lights-color-temperature |
+| LEDVANCE | B40 DIM T | lights-dimmer |
+| LEDVANCE | B40 TW T | lights-color-temperature |
+| LEDVANCE | B40 TW Z3 | lights-color-temperature |
+| LEDVANCE | B40S TW | lights-color-temperature |
+| LEDVANCE | CLA60 RGBW JP | lights-color-temperature-color |
+| LEDVANCE | CLA60 TW Value | lights-color-temperature |
+| LEDVANCE | Connected Tube Value II | lights-dimmer |
+| LEDVANCE | DR_ZBD_NFC_P_45W_220-240V_1A2 | lights-dimmer |
+| LEDVANCE | EDISON60 FIL DIM T | lights-dimmer |
+| LEDVANCE | FLEX RGBW T | lights-color-temperature-color |
+| LEDVANCE | FLEX RGBW Z3 | lights-color-temperature-color |
+| LEDVANCE | GARDENPOLE RGBW T | lights-color-temperature-color |
+| LEDVANCE | GLOBE60 FIL DIM T | lights-dimmer |
+| LEDVANCE | Gardenpole Mini RGBW Z3 | lights-color-temperature-color |
+| LEDVANCE | LEDVANCE DIM | lights-dimmer |
+| LEDVANCE | OUTDOOR FLEX RGBW T | lights-color-temperature-color |
+| LEDVANCE | Outdoor FLEX RGBW Z3 | lights-color-temperature-color |
+| LEDVANCE | P40 DIM T | lights-dimmer |
+| LEDVANCE | P40 TW T | lights-color-temperature |
+| LEDVANCE | P40 TW Value | lights-color-temperature |
+| LEDVANCE | P40S TW | lights-color-temperature |
+| LEDVANCE | PAR16 DIM T | lights-dimmer |
+| LEDVANCE | PAR16 RGBW T | lights-color-temperature-color |
+| LEDVANCE | PAR16 RGBW Value | lights-color-temperature-color |
+| LEDVANCE | PAR16 TW T | lights-color-temperature |
+| LEDVANCE | PAR16S RGBW | lights-color-temperature-color |
+| LEDVANCE | PAR16S TW | lights-color-temperature |
+| LEDVANCE | PL HCL300x1200 01 | lights-color-temperature |
+| LEDVANCE | PL_HCL600_01 | lights-color-temperature |
+| LEDVANCE | PL_HCL625_01 | lights-color-temperature |
+| LEDVANCE | Panel Light 2x2 TW | lights-color-temperature-color |
+| LEDVANCE | Panel TW 620 UGR19 | lights-color-temperature-color |
+| LEDVANCE | Panel TW Z3 | lights-color-temperature |
+| LEDVANCE | Tibea TW Z3 | lights-color-temperature |
+| LEDVANCE | Undercabinet TW Z3 | lights-color-temperature |
 | LUUMR | 10010128 | lights-color-temperature-color |
 | LUUMR | 10024773 | lights-color-temperature |
 | Ledron | QS-Zigbee-D06-DC | lights-dimmer |
@@ -2223,6 +2715,48 @@ https://bestow-regional.api.smartthings.com/invite/d4297OmXrQjo
 | Nordtronic A/S | 98426061 | lights-dimmer |
 | Nordtronic A/S | WSZ 98426061 | lights-dimmer |
 | Nous | P3Z | lights-color-temperature-color |
+| OSRAM | A60 DIM Z3 | lights-dimmer |
+| OSRAM | A60 TW Z3 | lights-color-temperature |
+| OSRAM | B40 DIM Z3 | lights-dimmer |
+| OSRAM | CLA60 RGBW II Z3 | lights-color-temperature-color |
+| OSRAM | CLA60 RGBW OSRAM | lights-color-temperature-color |
+| OSRAM | CLA60 RGBW Z3 | lights-color-temperature-color |
+| OSRAM | CLA60 TW OSRAM | lights-color-temperature |
+| OSRAM | Ceiling TW OSRAM | lights-color-temperature |
+| OSRAM | Classic A60 RGBW | lights-color-temperature-color |
+| OSRAM | Classic A60 TW | lights-color-temperature |
+| OSRAM | Classic A60 W clear - LIGHTIFY | lights-dimmer |
+| OSRAM | Classic B40 TW - LIGHTIFY | lights-color-temperature |
+| OSRAM | Connected Tube Z3 | lights-dimmer |
+| OSRAM | Control box TW | lights-color-temperature |
+| OSRAM | Flex Outdoor RGBW | lights-color-temperature-color |
+| OSRAM | Flex RGBW | lights-color-temperature-color |
+| OSRAM | Gardenpole Mini RGBW OSRAM | lights-color-temperature-color |
+| OSRAM | Gardenpole RGBW Z3 | lights-color-temperature-color |
+| OSRAM | Gardenpole RGBW-Lightify | lights-color-temperature-color |
+| OSRAM | Gardenspot RGB | lights-color |
+| OSRAM | Gardenspot W | lights-dimmer |
+| OSRAM | LIGHTIFY A19 Tunable White | lights-color-temperature |
+| OSRAM | LIGHTIFY FLEX OUTDOOR RGBW | lights-color-temperature-color |
+| OSRAM | LIGHTIFY Flex RGBW | lights-color-temperature-color |
+| OSRAM | LIGHTIFY Indoor Flex RGBW | lights-color-temperature-color |
+| OSRAM | LIGHTIFY Outdoor Flex RGBW | lights-color-temperature-color |
+| OSRAM | LIGHTIFY PAR38 ON/OFF/DIM | lights-dimmer |
+| OSRAM | LIGHTIFY RT RGBW | lights-color-temperature-color |
+| OSRAM | LIGHTIFY Under Cabinet TW | lights-color-temperature |
+| OSRAM | MR16 TW OSRAM | lights-color-temperature |
+| OSRAM | Outdoor Lantern B50 RGBW OSRAM | lights-color-temperature-color |
+| OSRAM | Outdoor Lantern W RGBW OSRAM | lights-color-temperature-color |
+| OSRAM | PAR 16 50 RGBW - LIGHTIFY | lights-color-temperature-color |
+| OSRAM | PAR16 50 TW | lights-color-temperature |
+| OSRAM | PAR16 DIM Z3 | lights-dimmer |
+| OSRAM | PAR16 RGBW Z3 | lights-color-temperature-color |
+| OSRAM | PAR16 TW Z3 | lights-color-temperature |
+| OSRAM | Panel TW 595 UGR22 | lights-color-temperature |
+| OSRAM | SubstiTube | lights-dimmer |
+| OSRAM | Surface Light TW | lights-color-temperature |
+| OSRAM | ZLO-CeilingTW-OS | lights-color-temperature |
+| OSRAM | Zigbee 3.0 DALI CONV LI | lights-color-temperature |
 | OXT | SWTZ25 | lights-dimmer-2-options |
 | Paulmann | 984.43 | lights-dimmer |
 | Paulmann Licht | RGBW | lights-color |
@@ -2284,15 +2818,33 @@ https://bestow-regional.api.smartthings.com/invite/d4297OmXrQjo
 | Sibling | Light-ZSLL | lights-color-temperature |
 | Skydance | WZ5_dim_2 | lights-color-temperature-color |
 | Smart Dim | Dimmer-Switch-ZB3.0 | lights-dimmer |
+| Sunricher | 3986 | lights-color-temperature |
+| Sunricher | CCT Lighting | lights-color-temperature |
 | Sunricher | DIM | lights-dimmer-2-options |
 | Sunricher | DIM Lighting | lights-dimmer |
+| Sunricher | HK-DIM | lights-dimmer |
 | Sunricher | HK-SL-DIM-A | lights-dimmer |
+| Sunricher | HK-SL-DIM-AU-K-A | lights-dimmer-power-voltage-current |
+| Sunricher | HK-SL-DIM-AU-R-A | lights-dimmer-power-voltage-current |
+| Sunricher | HK-SL-DIM-CLN | lights-dimmer |
+| Sunricher | HK-SL-DIM-EU-A | lights-dimmer-power-voltage-current |
+| Sunricher | HK-SL-DIM-UK | lights-dimmer-power-voltage-current |
+| Sunricher | HK-SL-DIM-US-A | lights-dimmer-power-voltage-current |
+| Sunricher | HK-SL-RDIM-A | lights-dimmer-power-voltage-current |
+| Sunricher | HK-ZD-CCT-A | lights-color-temperature |
+| Sunricher | HK-ZD-DIM-A | lights-dimmer |
 | Sunricher | HK-ZD-RGBCCT-A | lights-color-temperature-color |
+| Sunricher | Micro Smart Dimmer | lights-dimmer-power-voltage-current |
+| Sunricher | SM311 | lights-dimmer-power-voltage-current |
 | Sunricher | SR-ZG2835 | lights-dimmer |
 | Sunricher | SR-ZG9040A | lights-dimmer |
 | Sunricher | SR-ZG9040A-S | lights-dimmer |
+| Sunricher | ZG2837RAC-K4 | lights-dimmer-power-voltage-current |
+| Sunricher | ZG9101SAC-HP | lights-dimmer |
 | TechToy | _TZ3210_iw0zkcu8 | lights-color-temperature-color |
 | Third Reality | 3RCB02070Z | lights-color-temperature-color |
+| Third Reality, Inc | 3RSL011Z | lights-color-temperature |
+| Third Reality, Inc | 3RSL012Z | lights-color-temperature |
 | Tuya | A5C-21F7-01 | lights-color-temperature-color |
 | Tuya | FS-05R | lights-dimmer |
 | Tuya | L1(ZW) | lights-color-temperature |
@@ -2562,11 +3114,75 @@ https://bestow-regional.api.smartthings.com/invite/d4297OmXrQjo
 | Frient | MOSZB-153 | safety-motion-battery |
 | Frient | REXZB-111 | network-repeater |
 | Futurehome | Co020 | sensors-temp-humidity-battery |
+| HEIMAN | 319fa36e7384414a9ea62cba8f6e7626 | safety-smoke-detector-battery |
+| HEIMAN | 358e4e3e03c644709905034dae81433e | safety-gas-detector-tamper-battery-low |
+| HEIMAN | 98293058552c49f38ad0748541ee96ba | safety-smoke-detector-battery |
+| HEIMAN | COSensor-EF-3.0 | safety-co-detector-battery |
+| HEIMAN | COSensor-EM | safety-co-detector-battery |
+| HEIMAN | COSensor-N | safety-co-detector-battery |
+| HEIMAN | D1-EF2-3.0 | safety-contact-tamper-battery |
+| HEIMAN | DOOR_TPV12 | safety-contact-tamper-battery |
+| HEIMAN | DOOR_TPV13 | safety-contact-tamper-battery |
+| HEIMAN | DoorSensor-EF-3.0 | safety-contact-tamper-battery |
+| HEIMAN | DoorSensor-EM | safety-contact-tamper-battery |
+| HEIMAN | DoorSensor-N | safety-contact-tamper-battery |
+| HEIMAN | DoorSensor-N-3.0 | safety-contact-tamper-battery |
+| HEIMAN | FB56-SMF02HM1.4 | safety-smoke-detector-battery |
+| HEIMAN | GASSensor-EF-3.0 | safety-gas-detector-tamper-battery-low |
+| HEIMAN | GASSensor-EFR-3.0 | safety-gas-detector-tamper-battery-low |
+| HEIMAN | GASSensor-EM | safety-gas-detector-tamper-battery-low |
+| HEIMAN | GASSensor-EN | safety-gas-detector-tamper-battery-low |
+| HEIMAN | GASSensor-N | safety-gas-detector-tamper-battery-low |
+| HEIMAN | GASSensor-N-3.0 | safety-gas-detector-tamper-battery-low |
+| HEIMAN | GAS_V15 | safety-gas-detector-tamper-battery-low |
+| HEIMAN | HS15A-M | safety-smoke-detector-battery |
+| HEIMAN | HS1SA-E-PLUS | safety-smoke-detector-battery |
+| HEIMAN | HS1SA-EF-3.0 | safety-smoke-detector-battery |
 | HEIMAN | HS2AQ-EF-3.0 | safety-smoke-detector-battery |
 | HEIMAN | HS2AQ-EM | safety-smoke-detector-battery |
+| HEIMAN | HS2SA-EF-3.0 | safety-smoke-detector-battery |
+| HEIMAN | HS3HT-EFA-3.0 | sensors-temp-humidity-battery |
+| HEIMAN | HS8DS-EF2-3.0 | safety-contact-tamper-battery |
+| HEIMAN | HS9MS-E | safety-motion-tamper-battery |
+| HEIMAN | HT-EF-3.0 | sensors-temp-humidity-battery |
+| HEIMAN | HT-EM | sensors-temp-humidity-battery |
+| HEIMAN | HT-N | sensors-temp-humidity-battery |
+| HEIMAN | HY0022 | safety-gas-detector-tamper-battery-low |
+| HEIMAN | PIRILLSensor-EF-3.0 | safety-motion-battery |
+| HEIMAN | PIRSensor-EF-3.0 | safety-motion-tamper-battery |
+| HEIMAN | PIRSensor-EM | safety-motion-tamper-battery |
+| HEIMAN | PIRSensor-N | safety-motion-tamper-battery |
+| HEIMAN | PIRSensor-N-3.0 | safety-motion-tamper-battery |
+| HEIMAN | PIR_TPV12 | safety-motion-tamper-battery |
+| HEIMAN | PIR_TPV13 | safety-motion-tamper-battery |
+| HEIMAN | PIR_TPV16 | safety-motion-tamper-battery |
+| HEIMAN | RH3070 | safety-gas-detector-tamper-battery-low |
+| HEIMAN | SMOK_HV14 | safety-smoke-detector-battery |
+| HEIMAN | SMOK_V15 | safety-smoke-detector-battery |
+| HEIMAN | SMOK_V16 | safety-smoke-detector-battery |
+| HEIMAN | SMOK_YDLV10 | safety-smoke-detector-battery |
+| HEIMAN | SMOK_YDLV10N | safety-smoke-detector-battery |
+| HEIMAN | SmokeSensor-EF-3.0 | safety-smoke-detector-battery |
+| HEIMAN | SmokeSensor-EM | safety-smoke-detector-battery |
+| HEIMAN | SmokeSensor-N | safety-smoke-detector-battery |
+| HEIMAN | SmokeSensor-N-3.0 | safety-smoke-detector-battery |
+| HEIMAN | Smokesensor-EF2-3.0 | safety-smoke-detector-battery |
+| HEIMAN | TH-EM | sensors-temp-humidity-battery |
+| HEIMAN | TH-T_V14 | sensors-temp-humidity-battery |
+| HEIMAN | TY0202 | safety-motion-tamper-battery |
+| HEIMAN | TY0207 | safety-water-leak-battery |
 | HEIMAN | Vibration-EF-3.0 | safety-acceleration-battery |
 | HEIMAN | Vibration-EF_3.0 | safety-acceleration-battery |
 | HEIMAN | Vibration-N | safety-acceleration-battery |
+| HEIMAN | WATER_TPV13 | safety-water-leak-battery |
+| HEIMAN | WaterSensor-EF-3.0 | safety-water-leak-battery |
+| HEIMAN | WaterSensor-EM | safety-water-leak-battery |
+| HEIMAN | WaterSensor-N | safety-water-leak-battery |
+| HEIMAN | WaterSensor-N-3.0 | safety-water-leak-battery |
+| HEIMAN | WaterSensor2-EF-3.0 | safety-water-leak-battery |
+| HEIMAN | b5db59bfd81e4f1f95dc57fdbba17931 | safety-smoke-detector-battery |
+| HEIMAN | c3442b4ac59b4ba1a83119d938f283ab | safety-smoke-detector-battery |
+| HEIMAN | d90d7c61c44d468a8e906ca0841e0a0c | safety-gas-detector-tamper-battery-low |
 | HOBEIAN | ZG-102ZA | safety-contact-battery |
 | HOBEIAN | ZG-106Z | sensors-illuminance-battery |
 | HOBEIAN | ZG-204Z | safety-motion-battery |
@@ -2582,6 +3198,7 @@ https://bestow-regional.api.smartthings.com/invite/d4297OmXrQjo
 | LDS | ZHA-PirSensor | safety-motion-battery |
 | LINCUKOO | SZT06 | thermostats-thermostat-battery |
 | LK | 545D6306 | thermostats-thermostat-battery |
+| LUMI | lumi.weather | sensors-temp-humidity-pressure-battery-voltage |
 | Leedarson | ZHA-PIRSensor | safety-motion-battery |
 | Lincukoo | G94E | thermostats-thermostat-battery |
 | Lincukoo | V04-Z20T | thermostats-thermostat-battery |
@@ -2666,7 +3283,15 @@ https://bestow-regional.api.smartthings.com/invite/d4297OmXrQjo
 | Shyugj | DoorSensor-ZB3.0 | safety-contact-battery |
 | Sinopé | TH1320ZB-04 | thermostats-thermostat |
 | SparkFun | MGM240P | network-repeater |
+| Sunricher | HK-SENSOR-4IN1-A | safety-motion-illuminance-temp-humidity-battery |
+| Sunricher | HK-SENSOR-CO | safety-co-detector-battery |
 | Sunricher | HK-SENSOR-CT-A | safety-contact-battery |
+| Sunricher | HK-SENSOR-CT-MINI | safety-contact-battery |
+| Sunricher | HK-SENSOR-GAS | safety-gas-detector-tamper-battery-low |
+| Sunricher | HK-SENSOR-SMO | safety-smoke-detector-battery |
+| Sunricher | HK-SENSOR-WT1 | safety-water-leak-battery |
+| Sunricher | HK-SENSOR-WT2 | safety-water-leak-temp-battery |
+| Sunricher | ZG9032B | sensors-temp-humidity-battery |
 | Sygonix | SY-6811314 | thermostats-thermostat-battery |
 | TCP Smart | TBUWTRV | thermostats-thermostat-battery |
 | TUYATEC-ktge2vqt | RH3001 | safety-contact-tamper-battery |
@@ -2676,6 +3301,16 @@ https://bestow-regional.api.smartthings.com/invite/d4297OmXrQjo
 | Tesla Smart | TSL-SEN-GAS | safety-gas-detector-tamper |
 | Tesla Smart | TSL-SEN-SMOKE | safety-smoke-detector-battery |
 | Tesla Smart | TSL-TRV-GS361A | thermostats-thermostat-battery |
+| Third Reality, Inc | 3RDS17BZ | safety-contact-battery |
+| Third Reality, Inc | 3RDTS01056Z | safety-contact-battery |
+| Third Reality, Inc | 3RMS16BZ | safety-motion-battery |
+| Third Reality, Inc | 3RSMR01067Z | safety-motion-battery |
+| Third Reality, Inc | 3RTHS0224Z | sensors-temp-humidity-battery |
+| Third Reality, Inc | 3RTHS0324Z | sensors-temp-humidity-battery |
+| Third Reality, Inc | 3RTHS24BZ | sensors-temp-humidity-battery |
+| Third Reality, Inc | 3RVS01031Z | safety-acceleration-battery |
+| Third Reality, Inc | 3RWS0218Z | safety-water-leak-battery |
+| Third Reality, Inc | 3RWS18BZ | safety-water-leak-battery |
 | Trust | SmokeSensor-EM | safety-smoke-detector-battery |
 | TubesZB | BM24 | network-repeater |
 | TubesZB | MGM24 | network-repeater |
@@ -2739,8 +3374,6 @@ https://bestow-regional.api.smartthings.com/invite/d4297OmXrQjo
 | Yandex | YNDX-00522 | thermostats-thermostat-battery |
 | Yandex | YNDX-00523 | thermostats-thermostat-battery |
 | Yandex | YNDX-00524 | thermostats-thermostat-battery |
-| ZBGW7688 | EFR32MG21-V1 | network-repeater |
-| ZBGW7688 | EFR32MG21-V2 | network-repeater |
 | Zbeacon | TH01 | sensors-temp-humidity-battery |
 | Zbeacon | TS0201 | sensors-temp-humidity-battery |
 | Zbeacon | TS0202 | sensors-temp-humidity-battery |
@@ -2955,13 +3588,9 @@ https://bestow-regional.api.smartthings.com/invite/d4297OmXrQjo
 | AVATTO | ZWOT12 | switches-switch-4 |
 | AVATTO | ZWOT16-W2 | switches-switch-3 |
 | AVATTO | ZWSM16-1 | switches-switch-1 |
-| AVATTO | ZWSM16-1-Zigbee | switches-switch-1 |
 | AVATTO | ZWSM16-2 | switches-switch-2 |
-| AVATTO | ZWSM16-2-Zigbee | switches-switch-2 |
 | AVATTO | ZWSM16-3 | switches-switch-3 |
-| AVATTO | ZWSM16-3-Zigbee | switches-switch-3 |
 | AVATTO | ZWSM16-4 | switches-switch-4 |
-| AVATTO | ZWSM16-4-Zigbee | switches-switch-4 |
 | AduroSmart ERIA | ONOFF_METER_RELAY | plugs-switch-power-energy-voltage |
 | Aubess | TMZ02 | switches-switch-2 |
 | Aubess | TMZ02L-16A-B | switches-switch-1-countdown-switch-type |
@@ -3024,6 +3653,8 @@ https://bestow-regional.api.smartthings.com/invite/d4297OmXrQjo
 | HEIMAN | HS2SW2A-EFR-3.0 | switches-switch-2 |
 | HEIMAN | HS2SW3A-EF-3.0 | switches-switch-3 |
 | HEIMAN | HS2SW3A-EFR-3.0 | switches-switch-3 |
+| HEIMAN | SmartPlug | plugs-switch-power-energy-voltage-current |
+| HEIMAN | SmartPlug-EF-3.0 | plugs-switch-power-energy-voltage-current |
 | HEIMAN | SmartPlug-N | plugs-switch-power-energy-voltage |
 | HOBEIAN | ZG-301Z | switches-switch-1-countdown-switch-type |
 | HOBEIAN | ZG-301Z-2CH | switches-switch-2 |
@@ -3049,6 +3680,12 @@ https://bestow-regional.api.smartthings.com/invite/d4297OmXrQjo
 | LEDVANCE | AB3257001NJ | plugs-switch |
 | LEDVANCE | AC03360 | plugs-switch |
 | LEDVANCE | AC10691 | plugs-switch |
+| LEDVANCE | Outdoor Plug | plugs-switch |
+| LEDVANCE | PLUG COMPACT EU EM T | plugs-switch-power-energy-voltage-current |
+| LEDVANCE | PLUG COMPACT EU T | plugs-switch |
+| LEDVANCE | PLUG COMPACT OUTDOOR EU EM T | plugs-switch-power-energy-voltage-current |
+| LEDVANCE | PLUG OUTDOOR EU T | plugs-switch |
+| LEDVANCE | Plug Value | plugs-switch |
 | LELLKI | TS011F_plug | plugs-switch |
 | LELLKI | WP33-EU | switches-switch-4 |
 | Larkkey | PS080 | plugs-switch |
@@ -3063,7 +3700,7 @@ https://bestow-regional.api.smartthings.com/invite/d4297OmXrQjo
 | Lonsonho | X703A | switches-switch-3 |
 | LoraTap | RR400ZB | plugs-switch |
 | LoraTap | SP400ZB | plugs-switch |
-| Lotus | Ref 2117 | switches-switch-5 |
+| Lotus | Ref 2117 | switches-switch-5-tuya-options |
 | MHCOZY | TYWB 4ch-RF | switches-switch-4 |
 | MODEMIX | MOD037 | plugs-switch-power-energy-voltage |
 | MODEMIX | MOD048 | plugs-switch-power-energy-voltage |
@@ -3128,6 +3765,8 @@ https://bestow-regional.api.smartthings.com/invite/d4297OmXrQjo
 | Nova Digital | TPZ-3 | switches-switch-3 |
 | Nova Digital | TPZ-4 | switches-switch-4 |
 | Nova Digital | WS-US-ZB | switches-switch-3 |
+| OSRAM | Plug 01 | plugs-switch |
+| OSRAM | Plug Z3 | plugs-switch |
 | OXT | SWTZ21 | switches-switch-1 |
 | OXT | SWTZ22 | switches-switch-2 |
 | OXT | SWTZ23 | switches-switch-3 |
@@ -3159,11 +3798,21 @@ https://bestow-regional.api.smartthings.com/invite/d4297OmXrQjo
 | Shelly | 1 | plugs-switch |
 | Sibling | Powerswitch-ZK(W) | switches-switch-1 |
 | Somfy | ON/OFF (2CH) | switches-switch-2 |
+| Sunricher | HK-SL-RELAY-A | switches-switch-1 |
+| Sunricher | Micro Smart OnOff | switches-switch-1 |
+| Sunricher | ON/OFF | switches-switch-1 |
 | Sunricher | ON/OFF (2CH) | switches-switch-2 |
+| Sunricher | ON/OFF -M | switches-switch-1-power-options |
 | Sunricher | ON/OFF(2CH) | switches-switch-2 |
+| Sunricher | SR-ZG9023A-EU | switches-switch-5 |
 | Sunricher | SR-ZG9100A-S | switches-switch-1 |
 | Sunricher | SR-ZG9101SAC-HP-SWITCH-2CH | switches-switch-2 |
 | Sunricher | SR-ZG9101SAC-HP-SWITCH-B | switches-switch-1 |
+| Sunricher | ZG9041A-2R | switches-switch-2-power-options |
+| Sunricher | ZG9098A-Light | switches-switch-2-power-options |
+| Sunricher | ZG9098A-WinLight | switches-switch-2-power-options |
+| Sunricher | ZG9100B-5A | switches-switch-1-power-options |
+| Sunricher | ZIGBEE-SWITCH | switches-switch-1 |
 | TOMZN | TOB9Z-63M | din-rail-switch-power-energy-voltage-current |
 | TUYATEC | GDKES-01TZXD | switches-switch-1 |
 | TUYATEC | GDKES-02TZXD | switches-switch-2 |
@@ -3175,6 +3824,12 @@ https://bestow-regional.api.smartthings.com/invite/d4297OmXrQjo
 | Third Reality | 3RSPJ0187Z | plugs-switch |
 | Third Reality | 3RSPU01080Z | plugs-switch |
 | Third Reality | 3RWP01073Z | plugs-switch-2 |
+| Third Reality, Inc | 3RSP019BZ | plugs-switch |
+| Third Reality, Inc | 3RSP02028BZ | plugs-switch-power-energy-voltage-current |
+| Third Reality, Inc | 3RSPE01044BZ | plugs-switch-power-energy-voltage-current |
+| Third Reality, Inc | 3RSS007Z | switches-switch-1 |
+| Third Reality, Inc | 3RSS008Z | switches-switch-1-battery |
+| Third Reality, Inc | 3RSS009Z | switches-switch-1-battery |
 | Tomzn | TOB9Z-VAP | din-rail-switch-power-energy-voltage-current-threshold |
 | Tongou | TO-Q-SY1-JZT | din-rail-switch-power-energy-voltage-current |
 | Tongou | TO-Q-SY1-ZT | plugs-switch |
@@ -3191,9 +3846,9 @@ https://bestow-regional.api.smartthings.com/invite/d4297OmXrQjo
 | Tuya | ZG-2002-RF | switches-switch-2 |
 | Tuya | iHSW02 | switches-switch-1-countdown-switch-type |
 | UNSH | SMKG-1KNL-EU-Z | din-rail-switch-power-energy-voltage-current-threshold |
-| UseeLink | SM-0306E-2W | switches-switch-5 |
+| UseeLink | SM-0306E-2W | switches-switch-5-tuya-options |
 | UseeLink | SM-AZ713 | plugs-switch |
-| UseeLink | SM-O301-AZ | switches-switch-5 |
+| UseeLink | SM-O301-AZ | switches-switch-5-tuya-options |
 | UseeLink | SM-SO306E/K/M | switches-switch-5 |
 | VIKEFON | TS011F | plugs-switch-power-energy-voltage |
 | Vensi | E321V000A03 | switches-switch-1 |
@@ -3316,7 +3971,7 @@ https://bestow-regional.api.smartthings.com/invite/d4297OmXrQjo
 | _TZ3000_cayepv1a | TS011F | din-rail-switch-power-energy-voltage-current-threshold |
 | _TZ3000_cayepv1a | TS011F_with_threshold | din-rail-switch-power-energy-voltage-current-threshold |
 | _TZ3000_cehuw1lw | TS011F | plugs-switch-power-energy-voltage |
-| _TZ3000_cfnprab5 | TS011F | switches-switch-5 |
+| _TZ3000_cfnprab5 | TS011F | switches-switch-5-tuya-options |
 | _TZ3000_cicwjqth | TS011F | plugs-switch-power-energy-voltage |
 | _TZ3000_cjfmu5he | TS0049 | valves-valve-battery |
 | _TZ3000_cjrngdr3 | TS011F | plugs-switch-power-energy-voltage |
@@ -3328,7 +3983,7 @@ https://bestow-regional.api.smartthings.com/invite/d4297OmXrQjo
 | _TZ3000_cymsnfvf | TS011F | switches-switch-2 |
 | _TZ3000_dd8wwzcy | TS011F | plugs-switch-2-power-energy-voltage |
 | _TZ3000_dershnvx | TS0002 | switches-switch-2 |
-| _TZ3000_djgzdba9 | TS011F | switches-switch-5 |
+| _TZ3000_djgzdba9 | TS011F | switches-switch-5-tuya-options |
 | _TZ3000_dlhhrhs8 | TS000F | switches-switch-1-countdown-switch-type |
 | _TZ3000_dlug3kbc | TS011F | switches-switch-3 |
 | _TZ3000_dov0a3p1 | TS0001 | switches-switch-1 |
@@ -3348,7 +4003,7 @@ https://bestow-regional.api.smartthings.com/invite/d4297OmXrQjo
 | _TZ3000_g9chy2ib | TS0003 | switches-switch-3 |
 | _TZ3000_gazjngjl | TS011F | plugs-switch-2-power-energy-voltage |
 | _TZ3000_gbshwgag | TS0001 | switches-switch-1 |
-| _TZ3000_gdyjfvgm | TS011F | switches-switch-5 |
+| _TZ3000_gdyjfvgm | TS011F | switches-switch-5-tuya-options |
 | _TZ3000_gexniqbq | TS0004 | switches-switch-4 |
 | _TZ3000_gjnozsaz | TS011F | plugs-switch-power-energy-voltage |
 | _TZ3000_gjrubzje | TS0001 | switches-switch-1 |
@@ -3441,7 +4096,7 @@ https://bestow-regional.api.smartthings.com/invite/d4297OmXrQjo
 | _TZ3000_nuenzetq | TS0002 | switches-switch-2 |
 | _TZ3000_nwidmc4n | TS0003 | switches-switch-3 |
 | _TZ3000_nzkqcvvs | TS011F | plugs-switch |
-| _TZ3000_o005nuxx | TS011F | switches-switch-5 |
+| _TZ3000_o005nuxx | TS011F | switches-switch-5-tuya-options |
 | _TZ3000_o1jzcxou | TS011F | plugs-switch |
 | _TZ3000_o4cjetlm | TS0001 | valves-valve-indicator-mode |
 | _TZ3000_o4cjetlm | TS011F | valves-valve-indicator-mode |
@@ -3456,7 +4111,7 @@ https://bestow-regional.api.smartthings.com/invite/d4297OmXrQjo
 | _TZ3000_pf7swkqp | TS0003 | switches-switch-3 |
 | _TZ3000_pfc7i3kt | TS0003 | switches-switch-3 |
 | _TZ3000_pgq7ormg | TS0001 | switches-switch-1 |
-| _TZ3000_pl5v1yyy | TS011F | switches-switch-5 |
+| _TZ3000_pl5v1yyy | TS011F | switches-switch-5-tuya-options |
 | _TZ3000_plyvnuf5 | TS011F | plugs-switch |
 | _TZ3000_pmsxmttq | TS0003 | switches-switch-3 |
 | _TZ3000_pmz6mjyu | TS011F | switches-switch-2 |
@@ -3620,5 +4275,6 @@ https://bestow-regional.api.smartthings.com/invite/d4297OmXrQjo
 | iHseno | _TZ3000_zxrfobzw | switches-switch-2 |
 | pcblab.io | RR620ZB | switches-switch-2 |
 | zunzunbee | SSWZ8T | switches-switch-4 |
+
 
 
